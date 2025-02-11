@@ -1,4 +1,4 @@
-# Hi there, I'm Mojtaba Zolfaghari:
+# Hi there, I'm Mojtaba Zolfaghari
 I'm currently learning machine learning and deep learning.<br>I'm interested in researching applications of artificial intelligence in medicine and health.
 
 
